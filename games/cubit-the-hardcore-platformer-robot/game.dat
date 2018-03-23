@@ -1,0 +1,10 @@
+title = "Cubit The Hardcore Platformer Robot"
+description = "Cubit The Hardcore Platformer Robot is an action-packed platform game, where music plays a very important role.\nWith only one button to jump, you must help Cubit to go from platform to platform, while you avoid obstacles and enemies through the different scenes of the game. Published by CoderChild"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000124300"
+region = "eur"
+release_date = "2013-12-26"
